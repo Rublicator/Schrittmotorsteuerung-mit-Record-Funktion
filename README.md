@@ -20,7 +20,7 @@ Anwendungen mit einem Schrittmotor können ganz einfach automatisiert werden. Da
 
 ***
 ### Für das Projekt braucht man:
-1x Kit:**[Rublicator Schrittmotorsteuerung mit Record-Mode]**(https://getmakerstuff.de/Kit-Rublicator-Schrittmotorsteuerung-mit-Record-Mode/a76983472_u16002/)
+1x Kit: [**Rublicator Schrittmotorsteuerung mit Record-Mode**](https://getmakerstuff.de/Kit-Rublicator-Schrittmotorsteuerung-mit-Record-Mode/a76983472_u16002/)
 
 1x Arduino Nano
 
