@@ -5,7 +5,7 @@ Datum: Q2/2021
 Infos als Video: https://youtu.be/1GLjGYsH0K8
 
 ![Bild1Github](https://user-images.githubusercontent.com/88074525/128541693-08dbbe73-fd18-4f83-a0e8-5ca66fbf0264.png)
-![Bild2Github](https://user-images.githubusercontent.com/88074525/128541990-ca043d8a-5e7a-4cf1-8928-e7e282bb3796.png)
+![Bild2Github klein](https://user-images.githubusercontent.com/88074525/128542170-e43b0f25-d20d-4f72-ad56-3087262f7181.png)
 
 
 Hier gibt es die Software zur "Rublicator Schrittmotorsteuerung mit Record Funktion"
