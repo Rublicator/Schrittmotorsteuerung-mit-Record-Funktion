@@ -13,7 +13,8 @@ Datum: Q2/2021
 
 Hier gibt es die [Software](https://github.com/Rublicator/Schrittmotorsteuerung-mit-Record-Funktion/archive/refs/heads/main.zip) zur "Rublicator Schrittmotorsteuerung mit Record Funktion".
 
-### Eine detaillierte Projektbeschreibung zu der Schrittmotorsteuerung kann man hier als Pdf herunterladen.
+### Eine detaillierte Projektbeschreibung zu der Schrittmotorsteuerung kann man [**hier**](https://github.com/Rublicator/Schrittmotorsteuerung-mit-Record-Funktion/files/6947505/Projekt_V1_Rublicator_Schrittmotorsteuerung.pdf) als Pdf herunterladen:
+https://github.com/Rublicator/Schrittmotorsteuerung-mit-Record-Funktion/files/6947505/Projekt_V1_Rublicator_Schrittmotorsteuerung.pdf
 
 Mit der Steuerung kann man Schrittmotoren komplett ohne Programmierkentnisse automatisieren.
 Anwendungen mit einem Schrittmotor können ganz einfach automatisiert werden. Dazu wird die Schrittmotor-Bewegung händisch mit dem Record-Mode aufgenommen. Anschließend kann diese Bewegung mit dem Play-Mode wieder abgespielt werden. Selbst komplexeste Schrittmotor-Bewegungen können, ohne aufwändiges Programmieren, schnell und unkompliziert umgesetzt werden.
