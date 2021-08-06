@@ -18,7 +18,9 @@ Für das Projekt braucht man:
 #### 1x Kit: ## [Rublicator Schrittmotorsteuerung mit Record-Mode](https://getmakerstuff.de/Kit-Rublicator-Schrittmotorsteuerung-mit-Record-Mode/a76983472_u16002/)
 
 1x Arduino Nano
+
 1x 12V 2A DC Netzteil
+
 
 
 Mit der Steuerung kann man Schrittmotoren komplett ohne Programmierkentnisse automatisieren.
