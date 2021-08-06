@@ -36,7 +36,7 @@ man die Arduino IDE [hier](https://www.arduino.cc/en/software) herunterladen.
 
 
 
-
+**
 (C) Copyright by Rublicator Innovation, Inhaber Ruben Rodermann
 Rechtlicher Hinweis: 
 Die Software darf ausschließlich für den privaten Gebrauch verwendet werden. 
