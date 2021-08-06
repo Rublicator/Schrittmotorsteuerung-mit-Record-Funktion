@@ -1,6 +1,6 @@
-## Schrittmotorsteuerung-mit-Record-Funktion
+# Schrittmotorsteuerung-mit-Record-Funktion
 
-# Automatisieren mit Schrittmotoren ohne Programmierkenntnisse!
+## Automatisieren mit Schrittmotoren ohne Programmierkenntnisse!
 
 Version: 1.0 
 Datum: Q2/2021
@@ -13,6 +13,12 @@ Infos als Video: https://youtu.be/1GLjGYsH0K8
 
 Hier gibt es die Software zur "Rublicator Schrittmotorsteuerung mit Record Funktion"
 
+Für das Projekt braucht man:
+-1x Kit: ## [Rublicator Schrittmotorsteuerung mit Record-Mode](https://getmakerstuff.de/Kit-Rublicator-Schrittmotorsteuerung-mit-Record-Mode/a76983472_u16002/)
+-1x Arduino Nano
+-1x 12V 2A DC Netzteil
+
+
 Mit der Steuerung kann man Schrittmotoren komplett ohne Programmierkentnisse automatisieren.
 Dazu wird eine belibige Motorbewegung mit Eingabetastern im Record-Mode aufgenommen.
 Diese kann einfach im Play-Mode belibig oft wieder abgespielt werden.
@@ -20,7 +26,9 @@ Diese kann einfach im Play-Mode belibig oft wieder abgespielt werden.
 1.) Um die Software auf den Arduino zu Installieren, muss
 man die Arduino IDE [hier](https://www.arduino.cc/en/software) herunterladen.
 
-2.) Anschließend muss die Datei, welche [hier](https://github.com/Rublicator/Schrittmotorsteuerung-mit-Record-Funktion.git) heruntergeladen wurde mit der Arduino IDE geöffnet werden.
+2.) Anschließend muss die Datei, welche [hier](https://github.com/Rublicator/Schrittmotorsteuerung-mit-Record-Funktion/archive/refs/heads/main.zip) heruntergeladen wurde mit der Arduino IDE geöffnet werden.
+
+3.) J
 (C) Copyright by Rublicator Innovation, Inhaber Ruben Rodermann
 
 Rechtlicher Hinweis: 
