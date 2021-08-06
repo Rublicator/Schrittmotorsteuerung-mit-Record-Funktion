@@ -20,9 +20,9 @@ Für das Projekt braucht man:
 1x Arduino Nano
 
 1x 12V 2A DC Netzteil
--
--
--
+.
+.
+.
 
 
 Mit der Steuerung kann man Schrittmotoren komplett ohne Programmierkentnisse automatisieren.
