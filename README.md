@@ -17,9 +17,10 @@ Mit der Steuerung kann man Schrittmotoren komplett ohne Programmierkentnisse aut
 Dazu wird eine belibige Motorbewegung mit Eingabetastern im Record-Mode aufgenommen.
 Diese kann einfach im Play-Mode belibig oft wieder abgespielt werden.
 
-Um die Software auf den Arduino zu Installieren, muss
-man die Arduino IDE [Hier](https://www.arduino.cc/en/software) herunterladen.
+1.) Um die Software auf den Arduino zu Installieren, muss
+man die Arduino IDE [hier](https://www.arduino.cc/en/software) herunterladen.
 
+2.) Anschließend muss die Datei, welche [hier](https://github.com/Rublicator/Schrittmotorsteuerung-mit-Record-Funktion.git) heruntergeladen wurde mit der Arduino IDE geöffnet werden.
 (C) Copyright by Rublicator Innovation, Inhaber Ruben Rodermann
 
 Rechtlicher Hinweis: 
