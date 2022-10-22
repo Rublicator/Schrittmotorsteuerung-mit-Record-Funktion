@@ -32,8 +32,8 @@ Dazu wird die Schrittmotor-Bewegung händisch mit dem Record-Mode aufgenommen. A
 
 ### Schnelle und einfache Installation:
 
-1.) Zuerst muss ein Tool geöffnet werden, um die Software auf dem Arduino zu installieren muss
-auf dem PC [dieses Tool "Xloader"](https://www.hobbytronics.co.uk/download/XLoader.zip) geöffnet werden.
+1.) Um die Software auf dem Arduino zu installieren muss
+    auf dem PC dieses Programm [dieses Tool "Xloader"](https://www.hobbytronics.co.uk/download/XLoader.zip) geöffnet werden.
 
 2.) Wenn das Programm Xloader offen ist, wir der Arnuino Nano in den Pc gesteckt, bei dem Reiter "Hex file"
     wird die Datei: "Einfache_Software_installation_Rublicator_Schrittmo" (welche man hier auf der Seite als 
