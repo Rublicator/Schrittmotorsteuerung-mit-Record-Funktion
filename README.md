@@ -42,12 +42,15 @@ auf dem PC [dieses Tool "Xloader"](https://www.hobbytronics.co.uk/download/XLoad
     Arduino angeschlossen ist. (zu not alle ausprobieren bis ganz unten in XLoader "*** bytes uploaded" steht.
     Fertig! 
     
-    Bei Misserfolg kann es sein, dass man je nach Arduino Nano board noch mit [dieser Software](https://www.wch.cn/downloads/file/5.html) den CH340  Treiber     installieren muss. Dazu einfach die SETUP.exe öffnen und auf Install drücken. Dann   Schritt 2.) wiederholen und
+    Bei Misserfolg kann es sein, dass man je nach Arduino Nano board noch mit [dieser Software](https://www.wch.cn/downloads/file/5.html)
+    den CH340  Treiber     installieren muss. Dazu einfach die SETUP.exe öffnen und auf Install drücken. Dann   Schritt 2.) wiederholen und
     der upload der Software gelingt.
+    
     
 ***
 
 ### Installation mit der Arduino IDE:
+
 1.) Um die Software auf den Arduino zu Installieren, muss
 man die Arduino IDE [hier](https://www.arduino.cc/en/software) herunterladen.
 
