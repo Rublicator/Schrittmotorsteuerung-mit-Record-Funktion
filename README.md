@@ -36,7 +36,7 @@ Dazu wird die Schrittmotor-Bewegung händisch mit dem Record-Mode aufgenommen. A
     auf dem PC dieses Programm [dieses Tool "Xloader"](https://www.hobbytronics.co.uk/download/XLoader.zip) geöffnet werden.
 
 2.) Wenn das Programm Xloader offen ist, wir der Arnuino Nano in den Pc gesteckt, bei dem Reiter "Hex file"
-    wird die Datei: "Einfache_Software_installation_Rublicator_Schrittmo" (welche man hier auf der Seite als 
+    wird die Datei: "Einfache_Software_installation_Rublicator_Schrittmotorsteuerung_V1.1.ino.hex" (welche man hier auf der Seite als 
     Zip Datei herunterladen kann) ausgewählt. Unter dem Reiter Device wird dann "Duemilanove/nano(ATmega328) 
     ausgewählt. Bei "Baud rate" muss 115200 stehen und bei "COM port" wält man den USB Anschluss aus, wo der
     Arduino angeschlossen ist. (zu not alle ausprobieren bis ganz unten in XLoader "*** bytes uploaded" steht.
