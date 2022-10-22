@@ -56,7 +56,7 @@ man die Arduino IDE [hier](https://www.arduino.cc/en/software) herunterladen.
 
 2.) Anschließend muss die Datei, welche [hier](https://github.com/Rublicator/Schrittmotorsteuerung-mit-Record-Funktion/archive/refs/heads/main.zip) heruntergeladen wurde mit der Arduino IDE geöffnet werden.
 
-3.) Jetzt muss man die "Rublicator_Schrittmotorsteuerung_V1.ino" Datei mit der Arduino IDE öffnen und hochladen.
+3.) Jetzt muss man die "Rublicator_Schrittmotorsteuerung_V1.1.ino.hex" Datei mit der Arduino IDE öffnen und hochladen.
     Dazu müssen noch die sogenannten "libarys" in der Arduino Software installiert werden.
     Weitere Schritte stehen in der Datei selber drin oder können in dieser Projektbeschreibung nachgelesen werden. 
 
