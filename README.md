@@ -21,7 +21,7 @@ Dazu wird die Schrittmotor-Bewegung händisch mit dem Record-Mode aufgenommen. A
 
 ***
 ### Für das Projekt braucht man:
-1x Kit: [**Rublicator Schrittmotorsteuerung mit Record-Mode**](https://getmakerstuff.de/Kit-Rublicator-Schrittmotorsteuerung-mit-Record-Mode/a76983472_u16002/)
+1x Kit: [**Rublicator Schrittmotorsteuerung mit Record-Mode**]
 
 1x Arduino Nano
 
@@ -33,7 +33,7 @@ Dazu wird die Schrittmotor-Bewegung händisch mit dem Record-Mode aufgenommen. A
 ### Schnelle und einfache Installation:
 
 1.) Um die Software auf dem Arduino zu installieren muss
-    auf dem PC dieses Programm [dieses Tool "Xloader"](https://www.hobbytronics.co.uk/download/XLoader.zip) geöffnet werden.
+    auf dem PC dieses Programm [dieses Tool "Xloader"](https://github.com/binaryupdates/xLoader aufrufen, auf günen Knopf "code" drücken und als zip herunterladen) geöffnet werden.
 
 2.) Wenn das Programm Xloader offen ist, wir der Arnuino Nano in den PC gesteckt, bei dem Reiter "Hex file"
     wird die Datei: "Einfache_Software_installation_Rublicator_Schrittmotorsteuerung_V1.1.ino.hex" (welche man hier auf der Seite als 
