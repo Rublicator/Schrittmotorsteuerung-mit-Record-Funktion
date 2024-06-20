@@ -13,7 +13,7 @@ Datum: Q2/2021
 
 Hier gibt es die [Software](https://github.com/Rublicator/Schrittmotorsteuerung-mit-Record-Funktion/archive/refs/heads/main.zip) zur "Rublicator Schrittmotorsteuerung mit Record Funktion".
 
-### Eine detaillierte Projektbeschreibung zu der Schrittmotorsteuerung kann man [**hier**](https://github.com/Rublicator/Schrittmotorsteuerung-mit-Record-Funktion/files/6947505/Projekt_V1_Rublicator_Schrittmotorsteuerung.pdf) als Pdf herunterladen:
+### Eine detaillierte Projektbeschreibung zu der Schrittmotorsteuerung kann man [**hier**](https://github.com/Rublicator/Schrittmotorsteuerung-mit-Record-Funktion/blob/main/Projektbeschreibung_V2_Rublicator_Schrittmotorsteuerung.pdf) als Pdf herunterladen:
 https://github.com/Rublicator/Schrittmotorsteuerung-mit-Record-Funktion/blob/main/Projektbeschreibung_V2_Rublicator_Schrittmotorsteuerung.pdf
 
 Mit der Steuerung kann man Schrittmotoren komplett ohne Programmierkentnisse automatisieren.
