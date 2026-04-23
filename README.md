@@ -1,3 +1,15 @@
+# Stepper Motor Controller with Recording Function
+
+This project implements a custom stepper motor controller that allows users to automate motor movements without programming knowledge.
+The system records manual movements ("record mode") and replays them ("play mode"), enabling fast and intuitive automation of complex motion sequences.
+
+Key aspects:
+- Custom PCB design
+- Embedded software (Arduino-based)
+- Motion recording & playback functionality
+
+👉 Full documentation and detailed instructions are available below in German.
+
 # Schrittmotorsteuerung-mit-Record-Funktion
 
 ## Automatisieren mit Schrittmotoren ohne Programmierkenntnisse!
